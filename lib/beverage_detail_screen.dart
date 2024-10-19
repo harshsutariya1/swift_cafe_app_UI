@@ -114,7 +114,7 @@ class BeverageDetailScreen extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    beverageName + size.width.toString(),
+                    beverageName,
                     style: const TextStyle(
                       color: Colors.white,
                       fontSize: 19,

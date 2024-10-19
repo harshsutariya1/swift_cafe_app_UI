@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688253960963",
+    "project_id": "swift-cafe-app-ui",
+    "storage_bucket": "swift-cafe-app-ui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688253960963:android:99687ce96e2bfffc449f36",
+        "android_client_info": {
+          "package_name": "com.example.seequenze_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjgQ_9fI0ttnm-R4gqcPaO_DY3-Hwpxuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
